@@ -25,4 +25,4 @@ We accept the following payment types.
 Please visit our Product Recall page for product safety and recall information. You may also visit your local store for more product safety and recall information.
 
 ## Order confirmation
-You will receive a confirmation e-mail after placing your order. If you pay via credit car, the confirmation e-mail will be sent once your credit card has been charged.
+You will receive a confirmation e-mail after placing your order. If you pay via credit card, the confirmation e-mail will be sent once your credit card has been charged.
