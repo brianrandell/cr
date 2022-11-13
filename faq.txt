@@ -1,0 +1,8 @@
+Check Out Our FAQs below
+
+Reset your password
+If you forget your password or are having trouble signing in to your account, visit the web site sign-in page and follow the steps below.
+1.	Select forgot password.
+2.	Enter the e-mail address associated with your account.
+3.	Enter the 6 digit code you receive by mail.
+4.	You will now be prompted to enter a new password and hit submit.
