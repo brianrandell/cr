@@ -1,0 +1,28 @@
+# Check Out Our FAQs below
+
+## Reset your password
+If you forget your password or are having trouble signing in to your account, visit the web site sign-in page and follow the steps below.
+1.	Select forgot password.
+2.	Enter the e-mail address associated with your account.
+3.	Enter the 6 digit code you receive by mail.
+4.	You will now be prompted to enter a new password and hit submit.
+
+## Returns and Refunds
+Items purchased may be returned to a store or by mail. Items must be returned in the original manufacturer’s packaging. We strongly recommend you keep you packing for at lest the first 90 days after purchase. Items purchased from a Marketplace retailer must be returned to the Marketplace Retailer in accordance with their returns policy.
+
+## Locate a Store
+Visit the web site and select ‘Find a Store’ on the home page.
+
+## Payment and Pricing
+We accept the following payment types.
+1.	Visa credit and debit cards
+2.	Mastercard credit and debit cards
+3.	American Express credit and charge cards
+4.	Contoso Retail Gift Cards
+5.	PayPal
+
+## Product Recalls
+Please visit our Product Recall page for product safety and recall information. You may also visit your local store for more product safety and recall information.
+
+## Order confirmation
+You will receive a confirmation e-mail after placing your order. If you pay via credit car, the confirmation e-mail will be sent once your credit card has been charged.
